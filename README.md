@@ -1,14 +1,26 @@
-👋 Hi, I'm @mohamad-m-jamil
-Mohamad Jamil
-👀 I'm interested in ...
+# Hi, I'm Mohamad Jamil 👋
+
+## About Me
 As a full-stack developer, I'm passionate about creating engaging user experiences through web and mobile applications. I enjoy exploring new technologies and frameworks to build innovative projects.
-🌱 I'm currently learning ...
-At 42 Beirut, I'm immersed in the core curriculum, focusing on C programming, algorithms, and web development. I'm also delving into data structures, Unix systems, and project-based learning.
-💞️ I'm looking to collaborate on ...
+
+## Current Learning
+At 42 Beirut, I'm immersed in the core curriculum, focusing on:
+- **C Programming**
+- **Algorithms**
+- **Web Development**
+- **Data Structures**
+- **Unix Systems**
+
+I'm also engaged in project-based learning, which fuels my growth and creativity.
+
+## Collaboration
 I'm eager to collaborate on exciting projects that challenge me to grow as a developer. Whether it's building web applications, mobile apps, or exploring emerging technologies, I'm open to working with peers on innovative ideas.
-📫 How to reach me ...
-Feel free to connect with me on LinkedIn or send me a message here on GitHub. I'm always open to discussing projects, learning opportunities, or just having a friendly chat!
-😄 Pronouns: ...
+
+## How to Reach Me
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/MohamadJamil) or send me a message here on GitHub. I'm always open to discussing projects, learning opportunities, or just having a friendly chat!
+
+## Pronouns
 He/Him
-⚡ Fun fact: ...
+
+## Fun Fact
 As a student at 42 Beirut, I complete a new project every day, honing my skills in various programming languages and frameworks. I love the hands-on, peer-to-peer learning approach that encourages creativity and problem-solving.
