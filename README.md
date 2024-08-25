@@ -1,7 +1,7 @@
 # Hi, I'm Mohamad Jamil 👋
 
 ## About Me
-As a full-stack developer, I'm passionate about creating engaging user experiences through web and mobile applications. I enjoy exploring new technologies and frameworks to build innovative projects.
+I'm passionate about creating engaging user experiences through web and mobile applications. I enjoy exploring new technologies and frameworks to build innovative projects.
 
 ## Current Learning
 At 42 Beirut, I'm immersed in the core curriculum, focusing on:
