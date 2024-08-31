@@ -4,6 +4,12 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hoNXJsc3E2bDl5a3kwOTBwbXlpMXdncTE4bWFvYjFwYjJ1Mmp5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="150"/>
 </div>
 
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=7fcefe&center=true&vCenter=true&width=435&lines=Hey..+I'm+mohamad;This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
+
 ## About Me
 I'm passionate about creating engaging user experiences through web and mobile applications. I enjoy exploring new technologies and frameworks to build innovative projects.
 
