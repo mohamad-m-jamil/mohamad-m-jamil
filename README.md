@@ -1,5 +1,9 @@
 # Hi, I'm Mohamad Jamil 👋
 
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hoNXJsc3E2bDl5a3kwOTBwbXlpMXdncTE4bWFvYjFwYjJ1Mmp5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="150"/>
+</div>
+
 ## About Me
 I'm passionate about creating engaging user experiences through web and mobile applications. I enjoy exploring new technologies and frameworks to build innovative projects.
 
