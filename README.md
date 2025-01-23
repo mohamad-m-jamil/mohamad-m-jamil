@@ -34,3 +34,5 @@ He/Him
 
 ## Fun Fact
 As a student at 42 Beirut, I complete a new project every day, honing my skills in various programming languages and frameworks. I love the hands-on, peer-to-peer learning approach that encourages creativity and problem-solving.
+
+[![Instagram](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg)](https://www.instagram.com/mohamadjamil36)
