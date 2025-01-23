@@ -27,7 +27,7 @@ I'm also engaged in project-based learning, which fuels my growth and creativity
 I'm eager to collaborate on exciting projects that challenge me to grow as a developer. Whether it's building web applications, mobile apps, or exploring emerging technologies, I'm open to working with peers on innovative ideas.
 
 ## How to Reach Me
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/mohamad-jamil-8ba7bb33a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]) or send me a message here on GitHub. I'm always open to discussing projects, learning opportunities, or just having a friendly chat!
+Feel free to Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamad-jamil-8ba7bb33a/). or send me a message here on GitHub. I'm always open to discussing projects, learning opportunities, or just having a friendly chat!
 
 ## Pronouns
 He/Him
